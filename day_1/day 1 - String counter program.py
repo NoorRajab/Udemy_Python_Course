@@ -1,0 +1,6 @@
+print("*****************Name Sizer*******************")
+print("________________________________________________")
+print("\n")
+name=input("what is your name lad? ")
+name_length=len(name)
+print("Hello "+ name +"\nYou have "+str(name_length)+" characters in your name")
